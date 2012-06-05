@@ -1,6 +1,8 @@
 #include "testApp.h"
 //ofxCvImage
 
+//QUE LE HACEMO MUCHACHO???
+
 //--------------------------------------------------------------
 void testApp::setup(){
 
